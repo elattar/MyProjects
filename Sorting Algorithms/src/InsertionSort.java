@@ -1,6 +1,11 @@
 /*
  * 2016
  * @ABDELRAHMAN ELATTAR
+ * 
+ * Time Complexity is:
+ * for best case O(n) in ascending order or already sorted will not enter while loop
+ * for worst case O(n^2) in descending order
+ * for average O(n^2)
  */
 
 public class InsertionSort 
